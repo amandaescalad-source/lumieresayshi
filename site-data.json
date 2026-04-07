@@ -38,10 +38,10 @@
     "el_35": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">Llum de Tarda</font></font>",
     "el_36": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">Sèrie fotogràfica d'interiors captats a l'hora daurada, amb ombres llargues i tons càlids que transformen el que és quotidià.</font></font>",
     "el_37": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">Fotografia Interior</font></font>",
-    "el_38": "Serie botánica de flores secas fotografiadas sobre fondos de lino con luz natural lateral. Cada imagen es un instante de silencio y color.",
+    "el_38": "Composiciones de objetos cotidianos —tazas, cintas, libros— con paleta terrosa y cálida. La mesa como escenario de lo íntimo.",
     "el_39": "",
-    "el_40": "Nils Frahm — Says",
-    "el_41": "Max Richter — On the Nature of Daylight"
+    "el_40": "Ludovico Einaudi — Experience",
+    "el_41": "Ryuichi Sakamoto — Merry Christmas Mr. Lawrence"
   },
   "images": {},
   "projects": {
@@ -81,7 +81,12 @@
         "Ludovico Einaudi — Experience",
         "Ryuichi Sakamoto — Merry Christmas Mr. Lawrence"
       ],
-      "photos": []
+      "photos": [
+        "https://res.cloudinary.com/dfptvrxhy/image/upload/v1775583523/w5ibpyndcikszoqevtsu.jpg",
+        "https://res.cloudinary.com/dfptvrxhy/image/upload/v1775583523/yaxma2tpag4ugajd1cv9.jpg",
+        "https://res.cloudinary.com/dfptvrxhy/image/upload/v1775583523/zeef4a9ycpauqrbsnczq.jpg",
+        "https://res.cloudinary.com/dfptvrxhy/image/upload/v1775583523/k4nep8fn9zs6ogoeknzo.jpg"
+      ]
     },
     "p04": {
       "tag": "Fotografía Macro",
@@ -119,5 +124,5 @@
   },
   "extLinks": {},
   "igUrl": "https://www.instagram.com/lumieresayshi.byamanda?igsh=YWltbGlkYXl6dW55&utm_source=qr",
-  "savedAt": "2026-04-07T17:38:25.634Z"
+  "savedAt": "2026-04-07T17:38:49.167Z"
 }
