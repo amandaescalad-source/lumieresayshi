@@ -38,10 +38,10 @@
     "el_35": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">Llum de Tarda</font></font>",
     "el_36": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">Sèrie fotogràfica d'interiors captats a l'hora daurada, amb ombres llargues i tons càlids que transformen el que és quotidià.</font></font>",
     "el_37": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">Fotografia Interior</font></font>",
-    "el_38": "Composiciones de objetos cotidianos —tazas, cintas, libros— con paleta terrosa y cálida. La mesa como escenario de lo íntimo.",
+    "el_38": "Serie fotográfica de interiores captados en la hora dorada, con sombras largas y tonos cálidos que transforman lo cotidiano.",
     "el_39": "",
-    "el_40": "Ludovico Einaudi — Experience",
-    "el_41": "Ryuichi Sakamoto — Merry Christmas Mr. Lawrence"
+    "el_40": "Ólafur Arnalds — Near Light",
+    "el_41": "Johann Johannsson — Flight from the City"
   },
   "images": {},
   "projects": {
@@ -119,10 +119,12 @@
         "Ólafur Arnalds — Near Light",
         "Johann Johannsson — Flight from the City"
       ],
-      "photos": []
+      "photos": [
+        "https://res.cloudinary.com/dfptvrxhy/image/upload/v1775583653/luemadt5hf921e0dhaws.jpg"
+      ]
     }
   },
   "extLinks": {},
   "igUrl": "https://www.instagram.com/lumieresayshi.byamanda?igsh=YWltbGlkYXl6dW55&utm_source=qr",
-  "savedAt": "2026-04-07T17:38:49.167Z"
+  "savedAt": "2026-04-07T17:41:19.215Z"
 }
