@@ -38,10 +38,10 @@
     "el_35": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">Llum de Tarda</font></font>",
     "el_36": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">Sèrie fotogràfica d'interiors captats a l'hora daurada, amb ombres llargues i tons càlids que transformen el que és quotidià.</font></font>",
     "el_37": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">Fotografia Interior</font></font>",
-    "el_38": "Serie fotográfica de interiores captados en la hora dorada, con sombras largas y tonos cálidos que transforman lo cotidiano.",
+    "el_38": "Doce ilustraciones en acuarela digital que exploran la quietud de los días grises, la luz pálida y la belleza de lo pequeño.",
     "el_39": "",
-    "el_40": "Ólafur Arnalds — Near Light",
-    "el_41": "Johann Johannsson — Flight from the City"
+    "el_40": "Johann Johannsson — The Sun's Gone Dim",
+    "el_41": "Brian Eno — An Ending (Ascent)"
   },
   "images": {},
   "projects": {
@@ -70,7 +70,9 @@
         "Johann Johannsson — The Sun's Gone Dim",
         "Brian Eno — An Ending (Ascent)"
       ],
-      "photos": []
+      "photos": [
+        "https://res.cloudinary.com/dfptvrxhy/image/upload/v1775584805/ssadqo0jlwnm59jg3nnh.jpg"
+      ]
     },
     "p03": {
       "tag": "Still Life",
@@ -133,5 +135,5 @@
   },
   "extLinks": {},
   "igUrl": "https://www.instagram.com/lumieresayshi.byamanda?igsh=YWltbGlkYXl6dW55&utm_source=qr",
-  "savedAt": "2026-04-07T17:59:50.010Z"
+  "savedAt": "2026-04-07T18:00:15.345Z"
 }
