@@ -44,8 +44,80 @@
     "el_41": "Max Richter — On the Nature of Daylight"
   },
   "images": {},
-  "projects": {},
+  "projects": {
+    "p01": {
+      "tag": "Fotografía · Botánica",
+      "title": "Herbario Pastel",
+      "desc": "Serie botánica de flores secas fotografiadas sobre fondos de lino con luz natural lateral. Cada imagen es un instante de silencio y color.",
+      "music": [
+        "Ólafur Arnalds — Near Light",
+        "Nils Frahm — Says",
+        "Max Richter — On the Nature of Daylight"
+      ],
+      "photos": [
+        "https://res.cloudinary.com/dfptvrxhy/image/upload/v1775583500/z5quxrdvxtsh7bs249hd.jpg",
+        "https://res.cloudinary.com/dfptvrxhy/image/upload/v1775583500/lplo7ceaqwox3amxhs58.jpg",
+        "https://res.cloudinary.com/dfptvrxhy/image/upload/v1775583501/dmvdld7dewpmy1q25esy.jpg",
+        "https://res.cloudinary.com/dfptvrxhy/image/upload/v1775583501/qnm8ik3djrj3pps99dfa.jpg"
+      ]
+    },
+    "p02": {
+      "tag": "Acuarela Digital",
+      "title": "Aguadas de Invierno",
+      "desc": "Doce ilustraciones en acuarela digital que exploran la quietud de los días grises, la luz pálida y la belleza de lo pequeño.",
+      "music": [
+        "Joep Beving — Prehension",
+        "Johann Johannsson — The Sun's Gone Dim",
+        "Brian Eno — An Ending (Ascent)"
+      ],
+      "photos": []
+    },
+    "p03": {
+      "tag": "Still Life",
+      "title": "Still Life · Mesa",
+      "desc": "Composiciones de objetos cotidianos —tazas, cintas, libros— con paleta terrosa y cálida. La mesa como escenario de lo íntimo.",
+      "music": [
+        "Erik Satie — Gymnopédie No.1",
+        "Ludovico Einaudi — Experience",
+        "Ryuichi Sakamoto — Merry Christmas Mr. Lawrence"
+      ],
+      "photos": []
+    },
+    "p04": {
+      "tag": "Fotografía Macro",
+      "title": "Macro Texturas",
+      "desc": "Fotografía macro de papel acuarela, pigmentos y superficies naturales a alta resolución. Una exploración de lo invisible a simple vista.",
+      "music": [
+        "Stars of the Lid — Requiem for Dying Mothers",
+        "William Basinski — Disintegration Loops",
+        "Tim Hecker — Ravedeath"
+      ],
+      "photos": []
+    },
+    "p05": {
+      "tag": "Estudio de Color",
+      "title": "Paletas de Color",
+      "desc": "Exploración de combinaciones cromáticas en acuarela: estudios de mezclas, aguadas libres y armonías que nacen del azar.",
+      "music": [
+        "Novo Amor — Carry",
+        "Agnes Obel — Familiar",
+        "Sufjan Stevens — Death With Dignity"
+      ],
+      "photos": []
+    },
+    "p06": {
+      "tag": "Fotografía Interior",
+      "title": "Luz de Tarde",
+      "desc": "Serie fotográfica de interiores captados en la hora dorada, con sombras largas y tonos cálidos que transforman lo cotidiano.",
+      "music": [
+        "Max Richter — Dream 3",
+        "Ólafur Arnalds — Near Light",
+        "Johann Johannsson — Flight from the City"
+      ],
+      "photos": []
+    }
+  },
   "extLinks": {},
   "igUrl": "https://www.instagram.com/lumieresayshi.byamanda?igsh=YWltbGlkYXl6dW55&utm_source=qr",
-  "savedAt": "2026-04-07T07:56:50.837Z"
+  "savedAt": "2026-04-07T17:38:25.634Z"
 }
