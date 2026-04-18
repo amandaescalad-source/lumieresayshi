@@ -38,8 +38,10 @@
     "el_35": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">Luz de Tarde</font></font>",
     "el_36": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">Sèrie fotogràfica d'interiors captats a l'hora daurada, amb ombres llargues i tons càlids que transformen el que és quotidià.</font></font>",
     "el_37": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">Fotografia Interior</font></font>",
-    "el_38": "Serie botánica de flores secas fotografiadas sobre fondos de lino con luz natural lateral. Cada imagen es un instante de silencio y color.",
-    "el_39": "Tejados rojos, el Moldava y una luz que parece pintada."
+    "el_38": "Doce ilustraciones en acuarela digital que exploran la quietud de los días grises, la luz pálida y la belleza de lo pequeño.",
+    "el_39": "Tejados rojos, el Moldava y una luz que parece pintada.",
+    "el_40": "Johann Johannsson — The Sun's Gone Dim",
+    "el_41": "Brian Eno — An Ending (Ascent)"
   },
   "images": {
     "portrait": "https://res.cloudinary.com/dfptvrxhy/image/upload/v1776540283/faccj2ofzjqiis9u6srp.jpg"
@@ -75,7 +77,8 @@
         "https://res.cloudinary.com/dfptvrxhy/image/upload/v1775584805/ssadqo0jlwnm59jg3nnh.jpg",
         "https://res.cloudinary.com/dfptvrxhy/image/upload/v1775588307/fipwt79gwmpxkwuztwqh.jpg",
         "https://res.cloudinary.com/dfptvrxhy/image/upload/v1775588307/ssynbbkbpmvvcfyfsht4.jpg",
-        "https://res.cloudinary.com/dfptvrxhy/image/upload/v1775588307/buvz31wso6qrpznjy76m.jpg"
+        "https://res.cloudinary.com/dfptvrxhy/image/upload/v1775588307/buvz31wso6qrpznjy76m.jpg",
+        "https://res.cloudinary.com/dfptvrxhy/image/upload/v1776540658/u8wmf9u8n0zmsrqjl45t.jpg"
       ]
     },
     "p03": {
@@ -157,8 +160,9 @@
     }
   },
   "extLinks": {
-    "lugar1": ""
+    "lugar1": "",
+    "p02": "."
   },
   "igUrl": "https://www.instagram.com/lumieresayshi.byamanda?igsh=YWltbGlkYXl6dW55&utm_source=qr",
-  "savedAt": "2026-04-18T19:30:27.441Z"
+  "savedAt": "2026-04-18T19:31:04.821Z"
 }
