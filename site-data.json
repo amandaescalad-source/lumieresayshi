@@ -38,10 +38,10 @@
     "el_35": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">Luz de Tarde</font></font>",
     "el_36": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">Sèrie fotogràfica d'interiors captats a l'hora daurada, amb ombres llargues i tons càlids que transformen el que és quotidià.</font></font>",
     "el_37": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">Fotografia Interior</font></font>",
-    "el_38": "Composiciones de objetos cotidianos —tazas, cintas, libros— con paleta terrosa y cálida. La mesa como escenario de lo íntimo.",
+    "el_38": "Serie botánica de flores secas fotografiadas sobre fondos de lino con luz natural lateral. Cada imagen es un instante de silencio y color.",
     "el_39": "Tejados rojos, el Moldava y una luz que parece pintada.",
-    "el_40": "Ludovico Einaudi — Experience",
-    "el_41": "Ryuichi Sakamoto — Merry Christmas Mr. Lawrence"
+    "el_40": "Nils Frahm — Says",
+    "el_41": "Max Richter — On the Nature of Daylight"
   },
   "images": {
     "portrait": "https://res.cloudinary.com/dfptvrxhy/image/upload/v1776540283/faccj2ofzjqiis9u6srp.jpg"
@@ -61,7 +61,8 @@
         "https://res.cloudinary.com/dfptvrxhy/image/upload/v1775583500/lplo7ceaqwox3amxhs58.jpg",
         "https://res.cloudinary.com/dfptvrxhy/image/upload/v1775583501/dmvdld7dewpmy1q25esy.jpg",
         "https://res.cloudinary.com/dfptvrxhy/image/upload/v1775583501/qnm8ik3djrj3pps99dfa.jpg",
-        "https://res.cloudinary.com/dfptvrxhy/image/upload/v1776540624/gr0fxq5n1elb4iytjwv1.jpg"
+        "https://res.cloudinary.com/dfptvrxhy/image/upload/v1776540624/gr0fxq5n1elb4iytjwv1.jpg",
+        "https://res.cloudinary.com/dfptvrxhy/image/upload/v1776541190/g3bryxrwgv6x5aascwq9.jpg"
       ]
     },
     "p02": {
@@ -166,5 +167,5 @@
     "p02": "."
   },
   "igUrl": "https://www.instagram.com/lumieresayshi.byamanda?igsh=YWltbGlkYXl6dW55&utm_source=qr",
-  "savedAt": "2026-04-18T19:38:48.507Z"
+  "savedAt": "2026-04-18T19:39:53.938Z"
 }
