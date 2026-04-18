@@ -1,7 +1,7 @@
 {
   "texts": {
     "el_0": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">praga, republica checa</font></font>",
-    "el_1": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">Praga </font></font><em><font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">daurada</font></font></em>",
+    "el_1": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">Praga </font></font><em><font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">dorada</font></font></em>",
     "el_2": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">Teulades vermelles, el Moldava i una llum que sembla pintada. Una ciutat que atura el temps.</font></font>",
     "el_3": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">Tardor 2021</font></font>",
     "el_4": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">roma, italia</font></font>",
@@ -9,7 +9,7 @@
     "el_6": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">El pes dels segles i la llum del Mediterrani. Cada pedra té alguna cosa per explicar.</font></font>",
     "el_7": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">Hivern 2026</font></font>",
     "el_8": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">navarra, espanya</font></font>",
-    "el_9": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">Zugarramurdi </font></font><em><font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">verd</font></font></em>",
+    "el_9": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">Zugarramurdi </font></font><em><font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">verde</font></font></em>",
     "el_10": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">Cases blanques entre muntanyes. El nord que fa olor de pluja i silenci.</font></font>",
     "el_11": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">Estiu 2022</font></font>",
     "el_12": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\"><span style=\"font-size: 9.28px; letter-spacing: 1.856px;\">NORDAUSLÄUFER WESTERBERG,&nbsp;</span>alemanya&nbsp;</font></font>",
@@ -17,7 +17,7 @@
     "el_14": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">Vinyes, camins corbs i un horitzó que s'obre cap al Rin.</font></font>",
     "el_15": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">Tardor 2022</font></font>",
     "el_16": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">paris, frança</font></font>",
-    "el_17": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">París </font></font><em><font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">a l'alba</font></font></em>",
+    "el_17": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">París </font></font><em><font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">al atardecer</font></font></em>",
     "el_18": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">Les teulades de París des de dalt, amb aquell cel que canvia de color cada minut.</font></font>",
     "el_19": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">hivern 2021</font></font>",
     "el_20": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">Herbari Pastís 1</font></font>",
@@ -39,11 +39,11 @@
     "el_36": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">Sèrie fotogràfica d'interiors captats a l'hora daurada, amb ombres llargues i tons càlids que transformen el que és quotidià.</font></font>",
     "el_37": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">Fotografia Interior</font></font>",
     "el_38": "Fotografía macro de papel acuarela, pigmentos y superficies naturales a alta resolución. Una exploración de lo invisible a simple vista.",
-    "el_39": "Tejados rojos, el Moldava y una luz que parece pintada.",
-    "el_40": "William Basinski — Disintegration Loops",
-    "el_41": "Tim Hecker — Ravedeath"
+    "el_39": "Tejados rojos, el Moldava y una luz que parece pintada."
   },
-  "images": {},
+  "images": {
+    "portrait": "https://res.cloudinary.com/dfptvrxhy/image/upload/v1776540283/faccj2ofzjqiis9u6srp.jpg"
+  },
   "projects": {
     "p01": {
       "tag": "Fotografía · Botánica",
@@ -159,5 +159,5 @@
     "lugar1": ""
   },
   "igUrl": "https://www.instagram.com/lumieresayshi.byamanda?igsh=YWltbGlkYXl6dW55&utm_source=qr",
-  "savedAt": "2026-04-16T21:34:09.688Z"
+  "savedAt": "2026-04-18T19:24:49.028Z"
 }
