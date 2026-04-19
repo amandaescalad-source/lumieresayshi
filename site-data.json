@@ -38,10 +38,12 @@
     "el_35": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">Luz de Tarde</font></font>",
     "el_36": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">Sèrie fotogràfica d'interiors captats a l'hora daurada, amb ombres llargues i tons càlids que transformen el que és quotidià.</font></font>",
     "el_37": "<font dir=\"auto\" style=\"vertical-align: inherit;\"><font dir=\"auto\" style=\"vertical-align: inherit;\">Fotografia Interior</font></font>",
-    "el_38": "Exploración de combinaciones cromáticas en acuarela: estudios de mezclas, aguadas libres y armonías que nacen del azar.",
-    "el_39": "Casas blancas entre montanas. El norte que huele a lluvia."
+    "el_38": "Doce ilustraciones en acuarela digital que exploran la quietud de los días grises, la luz pálida y la belleza de lo pequeño.",
+    "el_39": "Vinedos, caminos curvos y un horizonte hacia el Rin."
   },
-  "images": {},
+  "images": {
+    "portrait": "https://res.cloudinary.com/dfptvrxhy/image/upload/v1776540283/faccj2ofzjqiis9u6srp.jpg"
+  },
   "projects": {
     "p01": {
       "tag": "Fotografía · Botánica",
@@ -164,5 +166,5 @@
     "p04": "L"
   },
   "igUrl": "https://www.instagram.com/lumieresayshi.byamanda?igsh=YWltbGlkYXl6dW55&utm_source=qr",
-  "savedAt": "2026-04-19T16:02:39.552Z"
+  "savedAt": "2026-04-19T16:10:48.493Z"
 }
